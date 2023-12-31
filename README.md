@@ -7,21 +7,21 @@ In the pursuit of transforming credit card offerings, Mitron Bank embarked on a 
 
 # Project Resources:
 
-Live Dashboard Link:
+Live Dashboard Link: https://lnkd.in/gyhSNbXq
 Video Presentation Link:
 
 # Insights Uncovered:
 
-Spending Patterns: Analysis revealed that bills, groceries, and electronics stood out as the top categories in customer expenditures.
-Occupation Trends: Salaried IT employees and business owners exhibited a higher propensity for spending, offering valuable insights into tailored credit card features.
-City-wise Behavior: Mumbai emerged as a significant spending hub, necessitating targeted strategies to cater to the unique dynamics of this market.
+1. Spending Patterns: Analysis revealed that bills, groceries, and electronics stood out as the top categories in customer expenditures.
+2. Occupation Trends: Salaried IT employees and business owners exhibited a higher propensity for spending, offering valuable insights into tailored credit card features.
+3. City-wise Behavior: Mumbai emerged as a significant spending hub, necessitating targeted strategies to cater to the unique dynamics of this market.
 Category-specific Opportunities: Categories such as bills, electronics, and travel displayed untapped potential for introducing specialized benefits and rewards.
 
 # Recommendations:
 
-Personalized Rewards: Implement a rewards program aligned with individual spending patterns to enhance customer satisfaction and loyalty.
-City-specific Offers: Develop customized offers tailored to the spending behaviors and preferences of each city to capture diverse markets effectively.
-Occupation-based Credit Limits: Tailor credit limits based on the occupation of customers, recognizing the distinct financial needs and capabilities of various professional groups.
+1. Personalized Rewards: Implement a rewards program aligned with individual spending patterns to enhance customer satisfaction and loyalty.
+2. City-specific Offers: Develop customized offers tailored to the spending behaviors and preferences of each city to capture diverse markets effectively.
+3. Occupation-based Credit Limits: Tailor credit limits based on the occupation of customers, recognizing the distinct financial needs and capabilities of various professional groups.
 
 # Skills Learned:
 
