@@ -29,5 +29,3 @@ Data Analysis Tools: Proficiency in using Power BI and Excel for robust data ana
 Data Visualization: Skill in creating impactful dashboards for visually conveying complex information.
 Presentation and Storytelling: Ability to present findings effectively, weaving a compelling narrative with data.
 Market Insights Application: Interpretation and application of market insights, particularly within the banking domain.
-
-## Mitron Bank's venture into this data-driven approach not only refines credit card offerings but also positions them at the forefront of innovation in the banking sector.
