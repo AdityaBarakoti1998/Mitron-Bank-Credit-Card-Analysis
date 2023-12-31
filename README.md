@@ -5,8 +5,8 @@ In the pursuit of transforming credit card offerings, Mitron Bank embarked on a 
 
 ## Project Resources:
 
-Live Dashboard Link: https://lnkd.in/gyhSNbXq
-Video Presentation Link:
+1. Live Dashboard Link: https://lnkd.in/gyhSNbXq
+2. Video Presentation Link:
 
 ## Insights Uncovered:
 
